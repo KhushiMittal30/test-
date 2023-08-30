@@ -1,0 +1,7 @@
+{{#user}}
+
+Name: Khushi Mittal 
+Skills: JAVA , C , C++ , DBMS(BASIC), SHELL SCRIPTING(BASIC)
+Email: khushimittal771@gmail.com
+
+{{/user}}
